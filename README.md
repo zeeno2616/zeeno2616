@@ -13,6 +13,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=zeeno2616&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=zeeno2616&icon=8&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=zeeno2616&label=Profile%20Views&color=1&pretty=true)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
